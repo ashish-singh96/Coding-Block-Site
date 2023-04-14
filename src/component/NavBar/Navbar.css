@@ -1,0 +1,16 @@
+.nav-bar {
+    width: auto;
+    height: 30px;
+    background-color: aqua;
+    padding-top: 6px;
+}
+
+ul {
+    display: flex;
+    justify-content: end;
+    list-style: none;
+    padding-right: 10px;
+}
+li{
+    margin-right: 30px;
+}
